@@ -7,3 +7,6 @@ Lucence-learning
 
 * [Lucene 原理与代码分析](http://www.cnblogs.com/forfuture1978/archive/2010/06/13/1757479.html)
 
+## 目前的问题：
+
+对于多个不用条件的结果计数问题
